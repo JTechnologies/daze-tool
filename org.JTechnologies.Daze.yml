@@ -1,4 +1,4 @@
-app-id: org.JTechnologies.Daze
+app-id: xyz.JTechnologies.Daze
 runtime: org.freedesktop.Platform
 runtime-version: '20.08'
 sdk: org.freedesktop.Sdk
@@ -11,4 +11,3 @@ modules:
     sources:
       - type: file
         path: daze
-
